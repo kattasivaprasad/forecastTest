@@ -1,13 +1,16 @@
-ForeCastAPI
+**ForeCastAPI**
 This repository has the script to automate weatherforecast API using MOCKITO and Junit5 for mocking the service since the requirement is to automate the service in offline scenario
 
-CodeGuidelines
+**CodeGuidelines**
+
 Code should be clean and kept to the same standard as production code - make sure unused variables and methods are removed, code is correctly formatted, with no random newlines and whitespaces.
 
-Installations
+**Installations**
+
 You should have Java installed in your system and must set environment variables for JAVA_HOME
 
-How To Run the Tests
+**How To Run the Tests**
+
 Clone the Project
 Import the project to your IDE
 Go to terminal on your IDE
